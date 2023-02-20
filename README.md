@@ -5,17 +5,29 @@
 ## 📝 Code Flowchart
 
 <img width="5500px" src="./code-flowchart.png" />
+<br><br>
 
-## What the software does?
+## ❓ What the software does?
 
-1. Selects a Program Mode, can either be encrypt or decrypt.
-2. Loading and Saving Image Data - gets the image's rgb data in per pixel that will either be encrypted or decrypted based on the program mode.
+- 1. Selects a Program Mode, can either be encrypt or decrypt.
+- 2. Loading and Saving Image Data - gets the image's rgb data in per pixel that will either be encrypted or decrypted based on the program mode.
 
-In encrypt mode: 3. Encrypting the Message using a given Key. 4. Translate Key and Message from String to Binary. 5. Adding the Key and Message Binary to the Image.
+In encrypt mode: <br>
 
-In decrypt mode: 3. Extract Key and Message Binary from Image Data. 4. Translate Key and Message from Binary to String. 5. Decrypt the Message using a Given Key. 6. Save Decrypted Message to Text File
+- 3. Encrypting the Message using a given Key.
+- 4. Translate Key and Message from String to Binary.
+- 5. Adding the Key and Message Binary to the Image.
+
+In decrypt mode: <br>
+
+- 3. Extract Key and Message Binary from Image Data.
+- 4. Translate Key and Message from Binary to String.
+- 5. Decrypt the Message using a Given Key.
+- 6. Save Decrypted Message to Text File
 
 See a more detailed demonstration in the flowchart below.
+
+<br><br>
 
 ## 📝 Description
 
@@ -25,15 +37,21 @@ program, or protocol. Media files are ideal for steganographic transmission beca
 
 - <a href="https://en.wikipedia.org/wiki/Steganography">Wikipedia on Steganography</a>
 
+<br><br>
+
 ## 🗓️ Date Finished
 
 February, 2022
+
+<br><br>
 
 ## ⌛ Time Spent
 
 1 month
 
-## Tools and Languages
+<br><br>
+
+## ⚙️ Tools and Languages
 
 - Python
 - Pillow Library
