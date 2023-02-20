@@ -1,6 +1,10 @@
-# Super Secure Steganography using Pythoin
+# Super Secure Steganography using Python
 
 ---
+
+## 📝 Code Flowchart
+
+<img width="5500px" src="./code-flowchart.png" />
 
 ## What the software does?
 
@@ -20,10 +24,6 @@ communications may include steganographic coding inside of a transport layer, su
 program, or protocol. Media files are ideal for steganographic transmission because of their large size.”
 
 - <a href="https://en.wikipedia.org/wiki/Steganography">Wikipedia on Steganography</a>
-
-## 📝 Code Flowchart
-
-<img src="./code-flowchart.png" />
 
 ## 🗓️ Date Finished
 
