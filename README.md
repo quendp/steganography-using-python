@@ -9,21 +9,21 @@
 
 ## ❓ What the software does?
 
-- 1. Selects a Program Mode, can either be encrypt or decrypt.
-- 2. Loading and Saving Image Data - gets the image's rgb data in per pixel that will either be encrypted or decrypted based on the program mode.
+- Selects a Program Mode, can either be encrypt or decrypt.
+- Loading and Saving Image Data - gets the image's rgb data in per pixel that will either be encrypted or decrypted based on the program mode.
 
 In encrypt mode: <br>
 
-- 3. Encrypting the Message using a given Key.
-- 4. Translate Key and Message from String to Binary.
-- 5. Adding the Key and Message Binary to the Image.
+- Encrypting the Message using a given Key.
+- Translate Key and Message from String to Binary.
+- Adding the Key and Message Binary to the Image.
 
 In decrypt mode: <br>
 
-- 3. Extract Key and Message Binary from Image Data.
-- 4. Translate Key and Message from Binary to String.
-- 5. Decrypt the Message using a Given Key.
-- 6. Save Decrypted Message to Text File
+- Extract Key and Message Binary from Image Data.
+- Translate Key and Message from Binary to String.
+- Decrypt the Message using a Given Key.
+- Save Decrypted Message to Text File
 
 See a more detailed demonstration in the flowchart below.
 
